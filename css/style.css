@@ -497,7 +497,7 @@ figure {
 .product-discount-item{
     flex: 1; 
     height: 300px;
-    background-image: url(/img/8.jpg);
+    background-image: url('/img/8.jpg');
     background-size: contain;
     background-attachment: fixed;
     opacity: 0.8;
@@ -616,7 +616,7 @@ input[type=email]:focus {
 }
 input[type=email] {
     background-color:none;
-    background-image: url(/img/telegram.svg);
+    background-image: url('/img/telegram.svg');
     background-position: 210px;
     background-repeat: no-repeat;
     padding-left: 40px;
